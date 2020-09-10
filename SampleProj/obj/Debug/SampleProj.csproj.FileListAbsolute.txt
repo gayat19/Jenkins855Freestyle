@@ -1,0 +1,7 @@
+E:\sony lap backup\d drive\Corp\Srushti\LTI855\Day3-DevOps\SampleSolution\SampleProj\bin\Debug\SampleProj.exe.config
+E:\sony lap backup\d drive\Corp\Srushti\LTI855\Day3-DevOps\SampleSolution\SampleProj\bin\Debug\SampleProj.exe
+E:\sony lap backup\d drive\Corp\Srushti\LTI855\Day3-DevOps\SampleSolution\SampleProj\bin\Debug\SampleProj.pdb
+E:\sony lap backup\d drive\Corp\Srushti\LTI855\Day3-DevOps\SampleSolution\SampleProj\obj\Debug\SampleProj.csprojAssemblyReference.cache
+E:\sony lap backup\d drive\Corp\Srushti\LTI855\Day3-DevOps\SampleSolution\SampleProj\obj\Debug\SampleProj.csproj.CoreCompileInputs.cache
+E:\sony lap backup\d drive\Corp\Srushti\LTI855\Day3-DevOps\SampleSolution\SampleProj\obj\Debug\SampleProj.exe
+E:\sony lap backup\d drive\Corp\Srushti\LTI855\Day3-DevOps\SampleSolution\SampleProj\obj\Debug\SampleProj.pdb
